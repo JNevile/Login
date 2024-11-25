@@ -1,0 +1,35 @@
+form {
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    border-color: lightsalmon;
+    border-style: solid;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+}
+
+.button-group {
+    margin-top: 10px;
+}
+
+button {
+    margin-right: 20px; 
+}
+
+.button-group button {
+    background-color: #0f4079;
+    color: antiquewhite;
+    border: none;
+    padding: 10px 20px;
+    margin: 15px;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+label {
+    color: #0f4079;
+    margin: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
